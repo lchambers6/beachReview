@@ -1,0 +1,24 @@
+{
+  "name": "beachreview",
+  "version": "1.0.0",
+  "description": "A pseudocode example for creating api for a beach review app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lchambers6/beachReview.git"
+  },
+  "author": "Luke Chambers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lchambers6/beachReview/issues"
+  },
+  "homepage": "https://github.com/lchambers6/beachReview#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "aws-sdk": "^2.687.0",
+    "serverless-http": "^2.7.0"
+  }
+}
